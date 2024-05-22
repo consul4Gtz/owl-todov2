@@ -6,6 +6,7 @@ const {Component,mount, xml, useState}=owl;
 //componente raiz 
 //primero se define la clase
 
+//implementarlo en odoo
 class Task extends Component {
     //se define el template
     static template = xml
